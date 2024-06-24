@@ -2,4 +2,6 @@
 
 Welcome in my "rabbit hole"
 
-Please refer to the instructions in your course repository to know more about the workflow.
+When I'm not on Fuerteventura or photographing weddings, I'm learning to code.
+---
+
