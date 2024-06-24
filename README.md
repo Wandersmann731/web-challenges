@@ -1,5 +1,5 @@
-# Web Challenges
+# Hi there
 
-In this repository you will share your challenges.
+Welcome in my "rabbit hole"
 
 Please refer to the instructions in your course repository to know more about the workflow.
